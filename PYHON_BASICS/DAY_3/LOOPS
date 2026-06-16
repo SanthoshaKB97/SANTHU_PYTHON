@@ -1,1 +1,26 @@
+#THIS IS FOR LOOP# ...........
+fruit=["apple","banan","mango"]
+for fruit in fruit:
+    print(fruit)
 
+
+
+for i in range(10):
+    if i == 5:
+        break
+    print(i)
+    
+# ex 2#    
+    
+for i in range(10):
+    if i==7:
+        continue
+    print(i)
+    
+    
+    
+    
+    
+    
+    
+    
