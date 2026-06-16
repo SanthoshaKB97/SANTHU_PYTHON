@@ -1,1 +1,9 @@
 
+name=input("Enter your name:")
+age=input("Enter your age:")
+Height=input("Enter your Height:")
+villege=input("Enter your villege:")
+print("MIR:",name)
+print("YOUR AGE:",age)
+print("YOUR HEIGHT:",Height)
+print("YOUR VILLEGE:",villege)
