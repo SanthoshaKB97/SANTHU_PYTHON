@@ -1,0 +1,13 @@
+
+
+name=input("enter youre name:")
+age=int(input("enter your age:"))
+color=input("enter your color:")
+print(name)
+print("your age:",age ,"year old")
+print("youre favroti color:",color)
+
+
+
+
+
