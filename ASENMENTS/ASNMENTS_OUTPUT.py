@@ -1,7 +1,7 @@
 
 
 
-_____________out put.___________
+_____________ASNMENTS_OUTPUT1.___________
 enter youre name:SANTHOSHA.K.B
 enter your age:17
 enter your color:BLUE
