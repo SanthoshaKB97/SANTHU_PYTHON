@@ -15,3 +15,9 @@ names = ["Santhu", "Rahul", "Kiran"]
 names[1] = "Arun"
 
 print(names)
+
+names = ["Santhu", "Rahul"]
+
+names.append("Kiran")
+
+print(names)
