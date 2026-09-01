@@ -9,3 +9,9 @@ print(names[0])
 print(names[1])
 print(names[2])
 print(names[3])
+
+names = ["Santhu", "Rahul", "Kiran"]
+
+names[1] = "Arun"
+
+print(names)
