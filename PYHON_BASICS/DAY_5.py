@@ -21,3 +21,9 @@ names = ["Santhu", "Rahul"]
 names.append("Kiran")
 
 print(names)
+
+names = ["Santhu", "Rahul", "Kiran"]
+
+names.remove("Rahul")
+
+print(names)
