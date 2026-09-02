@@ -6,3 +6,8 @@ student = {
 }
 
 print(student)
+
+
+print(student["name"])
+print(student["age"])
+print(student["marks"])
